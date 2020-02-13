@@ -1,4 +1,4 @@
-# expence-tracker-frontend
+# expense-tracker-frontend
 
 ## Project setup
 ```
